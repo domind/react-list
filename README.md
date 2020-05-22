@@ -1,3 +1,6 @@
+### Simple list in React.js with toggling sublist
+[Demo](https://domind.github.io/react-list/index.html)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
